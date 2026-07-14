@@ -1,2 +1,3 @@
 ini adalah baris kode pertama saya.
 ini adalah baris kode kedua saya yang saya tambahkan lewat github
+ini adalah baris kode ketiga saya yang saya tambahkan lewat vscode

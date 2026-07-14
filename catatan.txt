@@ -1,1 +1,2 @@
 ini adalah baris kode pertama saya.
+ini adalah baris kode kedua saya yang saya tambahkan lewat github
